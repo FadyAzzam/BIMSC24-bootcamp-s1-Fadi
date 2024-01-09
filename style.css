@@ -1,0 +1,23 @@
+div {
+
+    background-color: gray;
+    font-family: monospace;
+    font-size: 50px;
+
+}
+
+
+#navbar {
+
+    color: rgb(62, 96, 62);
+}
+
+#sidebar {
+
+    color: yellowgreen;
+}
+
+#main {
+
+    color:rgb(114, 52, 206);
+}
